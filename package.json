@@ -1,0 +1,24 @@
+{
+  "name": "test-greenkeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oricha/test-greenkeeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oricha/test-greenkeeper/issues"
+  },
+  "homepage": "https://github.com/oricha/test-greenkeeper#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "content-disposition": "^0.5.2",
+    "express": "^4.15.2"
+  }
+}
